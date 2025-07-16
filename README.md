@@ -4,7 +4,7 @@
 I’m **Hazem**, a final-year Computer Science Engineering student at ENSI in Manouba, Tunisia, and a dedicated Full-Stack Developer.  
 I automate everything I build—whether it’s GIS tools, AI-powered data pipelines, microservices, or real-time apps.
 
-**Find me on** ![LinkedIn](https://www.linkedin.com/in/hazem-sghaier-engineer/) 
+**Find me on** [LinkedIn](https://www.linkedin.com/in/hazem-sghaier-engineer/) 
 
 ---
 
